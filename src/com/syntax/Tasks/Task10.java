@@ -3,7 +3,7 @@ package com.syntax.Tasks;
 public class Task10 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO print second largest number
 		int arr[]= {1,9,7};
 		int max=arr[0];       
 		int max2=arr[0];
